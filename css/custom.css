@@ -145,7 +145,7 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../cats1');
+	background: url('cats1.jpg');
 	}
 	
 .item-2 {
@@ -153,7 +153,7 @@ header .header-content .header-content-inner p {
 	}
 	
 .item-3 {
-	background: url(cats3);
+	background: url('cats3.jpg');
 	}
 		
 .item-1,
