@@ -161,6 +161,8 @@ header .header-content .header-content-inner p {
 .item-3 {
 	background-size: cover;
 	background-position: 50% 50%;
+    transition: all .2s ease-in-out; 
+.hover { transform: scale(1.1); }
 	}
 
 .page-footer {
@@ -352,9 +354,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: blue;
+    border-color: #ffa500;
     color: #fff;
-    background-color: blue;
+    background-color: #ffa500;
 }
 
 .btn-primary:active,
