@@ -170,8 +170,12 @@ header .header-content .header-content-inner p {
 
 	}
 
-.item-1,
-.item-2,
+.item-1:{
+    width:300px;
+}
+.item-2:{
+    width:300px;
+}
 .item-3:hover
 {
     width:300px;
